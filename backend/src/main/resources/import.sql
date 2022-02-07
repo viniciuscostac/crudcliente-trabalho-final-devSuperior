@@ -1,3 +1,11 @@
-insert into tb_client (name, birth_date, children, cpf, income) values ('Vinicius', NOW(), 2, '11111111111', 7000.00);
-insert into tb_client (name, birth_date, children, cpf, income) values ('Lorrany', NOW(), 1, '41834675458', 5000.00);
-insert into tb_client (name, birth_date, children, cpf, income) values ('Junior', NOW(), 4, '41836675888', 1000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Vini', '1993-08-09T17:37:01.775175Z', 2, '13578907654', 7000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Lorrany', '1994-01-09T17:37:01.775175Z', 1, '12378908734', 10000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Rodrigo', '1985-07-24T17:37:01.775175Z', 4, '56798325709', 500.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Roseli', '1962-07-29T17:37:01.775175Z', 4, '23890554333', 6000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Roberto', '1962-04-20T17:37:01.775175Z', 4, '4335699753', 8000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('José', '1962-04-20T17:37:01.775175Z', 4, '77764436789', 1000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Thais', '1994-01-09T17:37:01.775175Z', 4, '56781245890', 15000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Anna', '1942-03-15T17:37:01.775175Z', 4, '87598722344', 13000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Benedito', '1940-03-18T17:37:01.775175Z', 4, '55567896427', 11000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Regina', '1940-03-18T17:37:01.775175Z', 4, '55546896427', 11000.00);
+insert into tb_client (name, birth_date, children, cpf, income) values ('Osvaldo', '1940-03-18T17:37:01.775175Z', 4, '213567896427', 11000.00);
